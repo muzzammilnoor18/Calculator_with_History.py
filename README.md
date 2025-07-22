@@ -10,6 +10,7 @@ Features:
 - Can clear all saved history
   
 
+
 How to Use:
 
 1. Run the Python script:
@@ -29,11 +30,13 @@ How to Use:
 -  exit - Closes the program
 
 
+
 #Example
 
 ---SIMPLE CALCULATOR (type history, clear or exit)
 Enter calculation (+ - * /) or command (history, clear or exit) = 10 + 5
 Result: 15
+
 
 
 Author
