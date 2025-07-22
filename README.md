@@ -21,9 +21,8 @@ How to Use
    number operator number
    e.g. 5 + 5
 
-5. Use the following commands:
-6. 
-   history - Shows all past calculations
+4. Use the following commands:
+5.  history - Shows all past calculations
    clear - Clears the entire history
    exit - Closes the program
 
@@ -35,6 +34,7 @@ Result: 15
 
 Enter calculation (+ - * /) or command (history, clear or exit) = history
 10 + 5 =15
+
 
 Author
 
