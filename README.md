@@ -2,7 +2,7 @@
 
 This is a simple command-line calculator built in Python. It performs basic arithmetic operations (+, -, *, /) and allows users to view and clear the history of calculations.
 
-Features:
+Features :
 
 - Supports addition, subtraction, multiplication, and division
 - Saves each calculation in a history file (`history.txt`)
@@ -10,7 +10,7 @@ Features:
 - Can clear all saved history
   
 
-How to Use:
+How to Use :
 
 1. Run the Python script:
    
