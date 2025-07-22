@@ -10,19 +10,18 @@ Features:
 - Can clear all saved history
   
 
-
 How to Use:
 
 1. Run the Python script:
    
    "python calculator.py"
    
-3. Enter a calculation in the following format:
+2. Enter a calculation in the following format:
    
    number operator number
    e.g. 5 + 5
 
-4. Use the following commands:
+3. Use the following commands:
 -  history - Shows all past calculations
 
 -  clear - Clears the entire history
@@ -30,13 +29,11 @@ How to Use:
 -  exit - Closes the program
 
 
-
 #Example
 
 ---SIMPLE CALCULATOR (type history, clear or exit)
 Enter calculation (+ - * /) or command (history, clear or exit) = 10 + 5
 Result: 15
-
 
 
 Author
